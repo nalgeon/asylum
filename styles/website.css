@@ -1,0 +1,13 @@
+figure {
+  margin-bottom: 1em;
+}
+
+figcaption {
+  color: #858585;
+  font-style: italic;
+}
+
+.big {
+    font-size: 1.6em;
+    padding: 1em 4em 0;
+}
